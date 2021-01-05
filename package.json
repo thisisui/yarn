@@ -1,0 +1,10 @@
+{
+  "name": "yarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Igor Napierala",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
